@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="PlayerMovementData" load_steps=2 format=3 uid="uid://beamlegoiniti"]
+
+[ext_resource type="Script" path="res://PlayerMovementData.gd" id="1_042am"]
+
+[resource]
+script = ExtResource("1_042am")
+speed = 120.0
+acceleration = 1000.0
+friction = 1000.0
+jump_velocity = -350.0
