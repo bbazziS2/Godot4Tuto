@@ -1,9 +1,10 @@
 [gd_scene format=3 uid="uid://bwx56uef8ec82"]
 
 [node name="LevelCompleted" type="ColorRect"]
-anchors_preset = 15
-anchor_right = 1.0
+anchors_preset = -1
+anchor_right = 1.067
 anchor_bottom = 1.0
+offset_right = -0.100006
 grow_horizontal = 2
 grow_vertical = 2
 color = Color(0, 0, 0, 0.207843)
